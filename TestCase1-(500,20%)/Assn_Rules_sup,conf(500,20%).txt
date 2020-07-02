@@ -1,0 +1,12 @@
+MinSupport : 500
+Confidence : 20%
+
+ other vegetables ( 1903.0 )  -->  whole milk ( 2513.0 )  Confidence: 38.67577509196006
+ whole milk ( 2513.0 ) -->  other vegetables ( 1903.0 ) Confidence: 29.287703939514525
+
+ rolls/buns ( 1809.0 )  -->  whole milk ( 2513.0 )  Confidence: 30.790491984521832
+ whole milk ( 2513.0 ) -->  rolls/buns ( 1809.0 ) Confidence: 22.16474333465977
+
+ whole milk ( 2513.0 )  -->  yogurt ( 1372.0 )  Confidence: 21.92598487863112
+ yogurt ( 1372.0 ) -->  whole milk ( 2513.0 ) Confidence: 40.160349854227405
+

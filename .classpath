@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Apriori/src"/>
+	<classpathentry kind="src" path="FP Tree/src"/>
+	<classpathentry kind="lib" path="Apriori/dist/DataMining.jar"/>
+	<classpathentry kind="lib" path="FP Tree/dist/DataMining1.jar"/>
+	<classpathentry kind="output" path="Apriori/build/classes"/>
+</classpath>

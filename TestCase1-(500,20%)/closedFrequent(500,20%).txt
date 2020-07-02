@@ -1,0 +1,36 @@
+Support     : 500
+Confidence  : 20% 
+
+Closed Freq Itemset:
+ 
+beef 
+bottled beer 
+bottled water 
+brown bread 
+butter 
+canned beer 
+citrus fruit 
+coffee 
+curd 
+domestic eggs 
+frankfurter 
+fruit/vegetable juice 
+margarine 
+napkins 
+newspapers 
+other vegetables 
+pastry 
+pip fruit 
+pork 
+rolls/buns 
+root vegetables 
+sausage 
+shopping bags 
+soda 
+tropical fruit 
+whipped/sour cream 
+whole milk 
+yogurt 
+other vegetables whole milk 
+rolls/buns whole milk 
+whole milk yogurt 

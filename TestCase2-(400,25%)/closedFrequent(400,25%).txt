@@ -1,0 +1,40 @@
+beef 
+bottled beer 
+bottled water 
+brown bread 
+butter 
+canned beer 
+chicken 
+chocolate 
+citrus fruit 
+coffee 
+curd 
+domestic eggs 
+frankfurter 
+frozen vegetables 
+fruit/vegetable juice 
+margarine 
+napkins 
+newspapers 
+other vegetables 
+pastry 
+pip fruit 
+pork 
+rolls/buns 
+root vegetables 
+sausage 
+shopping bags 
+soda 
+tropical fruit 
+whipped/sour cream 
+white bread 
+whole milk 
+yogurt 
+other vegetables rolls/buns 
+other vegetables root vegetables 
+other vegetables whole milk 
+other vegetables yogurt 
+rolls/buns whole milk 
+root vegetables whole milk 
+tropical fruit whole milk 
+whole milk yogurt 

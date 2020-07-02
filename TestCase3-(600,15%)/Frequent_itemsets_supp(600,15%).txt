@@ -1,0 +1,27 @@
+1 Frequent Itemsets are
+
+bottled beer 
+bottled water 
+brown bread 
+canned beer 
+citrus fruit 
+domestic eggs 
+fruit/vegetable juice 
+newspapers 
+other vegetables 
+pastry 
+pip fruit 
+rolls/buns 
+root vegetables 
+sausage 
+shopping bags 
+soda 
+tropical fruit 
+whipped/sour cream 
+whole milk 
+yogurt 
+
+
+2 Frequent Item Sets are:
+
+other vegetables whole milk 

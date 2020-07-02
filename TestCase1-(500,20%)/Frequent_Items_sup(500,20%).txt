@@ -1,0 +1,40 @@
+MinSupport = 500
+Confidence = 20%
+
+1 Frequent Itemsets are
+
+beef 
+bottled beer 
+bottled water 
+brown bread 
+butter 
+canned beer 
+citrus fruit 
+coffee 
+curd 
+domestic eggs 
+frankfurter 
+fruit/vegetable juice 
+margarine 
+napkins 
+newspapers 
+other vegetables 
+pastry 
+pip fruit 
+pork 
+rolls/buns 
+root vegetables 
+sausage 
+shopping bags 
+soda 
+tropical fruit 
+whipped/sour cream 
+whole milk 
+yogurt 
+
+
+2 Frequent Item Sets are:
+
+other vegetables whole milk 
+rolls/buns whole milk 
+whole milk yogurt 

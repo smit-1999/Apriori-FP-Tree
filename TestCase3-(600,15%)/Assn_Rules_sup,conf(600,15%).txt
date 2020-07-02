@@ -1,0 +1,3 @@
+ other vegetables ( 1903.0 )  -->  whole milk ( 2513.0 )  Confidence: 38.67577509196006
+ whole milk ( 2513.0 ) -->  other vegetables ( 1903.0 ) Confidence: 29.287703939514525
+

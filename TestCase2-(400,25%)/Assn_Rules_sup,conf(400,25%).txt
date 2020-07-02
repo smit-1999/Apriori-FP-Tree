@@ -1,0 +1,15 @@
+ root vegetables ( 1072.0 ) -->  other vegetables ( 1903.0 ) Confidence: 43.47014925373134
+
+ other vegetables ( 1903.0 )  -->  whole milk ( 2513.0 )  Confidence: 38.67577509196006
+ whole milk ( 2513.0 ) -->  other vegetables ( 1903.0 ) Confidence: 29.287703939514525
+
+ yogurt ( 1372.0 ) -->  other vegetables ( 1903.0 ) Confidence: 31.122448979591837
+
+ rolls/buns ( 1809.0 )  -->  whole milk ( 2513.0 )  Confidence: 30.790491984521832
+
+ root vegetables ( 1072.0 )  -->  whole milk ( 2513.0 )  Confidence: 44.86940298507462
+
+ tropical fruit ( 1032.0 )  -->  whole milk ( 2513.0 )  Confidence: 40.310077519379846
+
+ yogurt ( 1372.0 ) -->  whole milk ( 2513.0 ) Confidence: 40.160349854227405
+
