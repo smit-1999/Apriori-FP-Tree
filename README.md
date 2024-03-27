@@ -67,6 +67,9 @@ This is known as the anti-monotone property of support acting on the subsets of 
 <img width="740" alt="image" src="https://github.com/smit-1999/Apriori-FP-Tree/assets/44575416/c61b4b59-574b-4469-a67d-9c086e1e6159">
 <img width="744" alt="image" src="https://github.com/smit-1999/Apriori-FP-Tree/assets/44575416/87135f28-06e5-426f-8a6c-7fa4c207b8b8">
 
+Once we know what the frequent itemsets are, we proceed to rule generation for these frequent itemsets. 
+If {A,B,C,D} is a frequent itemset, candidate rules:
+ABC->D, ABD->C, ACD->B, BCD->A, A->BCD,	B ->ACD, C ->ABD,D ->ABC,AB->CD,AC ->BD, AD->BC, BC->AD,BD ->AC, CD->AB
 
 ### FP Tree:
 
