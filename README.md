@@ -38,6 +38,36 @@ This  can help me (a store owner)to group items and place them nearby. This regr
 
 ## Algorithm
 
+### Apriori
+First we take as input from the user the filename, minimum support value and the confidence.
+Support: Fraction of transactions that contain an itemset
+Frequent Itemset: An itemset whose support is gerater than or equal to a minsup threshold
+
+Support of a rule (s) X-> Y : Fraction of transactions that contain both X and Y
+Confidence of a rule(c) : Measures how often items in Y appear in transactions thatcontain X = Support (X union Y)/Support(X)
+
+Given a set of transactions T, the goal of association rule mining is to find all rules having 
+support ≥ minsup threshold
+confidence ≥ minconf threshold
+
+Rules originating from the same itemset have identical support but can have different confidence
+Two-step approach: 
+1) Frequent Itemset Generation
+	Generate all itemsets whose support >= minsup
+2) Rule Generation
+	Generate high confidence rules from each frequent itemset, where each rule is a binary partitioning of a frequent itemset
+
+Apriori principle (Main observation):
+If an itemset is frequent, then all of its subsets must also be frequent
+The support of an itemset never exceeds the support of its subsets
+This is known as the anti-monotone property of support acting on the subsets of the itemsets.
+
+<img width="666" alt="image" src="https://github.com/smit-1999/Apriori-FP-Tree/assets/44575416/89bc3001-1c3f-4c8f-95d6-88895d23c4d5">
+
+
+
+### FP Tree:
+
 
 ## Setup
 The project is built entirely in Java.
