@@ -43,8 +43,9 @@ First we take as input from the user the filename, minimum support value and the
 Support: Fraction of transactions that contain an itemset
 Frequent Itemset: An itemset whose support is gerater than or equal to a minsup threshold
 
-Support of a rule (s) X-> Y : Fraction of transactions that contain both X and Y
-Confidence of a rule(c) : Measures how often items in Y appear in transactions thatcontain X = Support (X union Y)/Support(X)
+Support of a rule (s) X -> Y : Fraction of transactions that contain both X and Y.
+Confidence of a rule(c) : Measures how often items in Y appear in transactions that contain X 
+Confidence => Support (X union Y)/Support(X)
 
 Given a set of transactions T, the goal of association rule mining is to find all rules having 
 support ≥ minsup threshold
@@ -63,7 +64,8 @@ The support of an itemset never exceeds the support of its subsets
 This is known as the anti-monotone property of support acting on the subsets of the itemsets.
 
 <img width="666" alt="image" src="https://github.com/smit-1999/Apriori-FP-Tree/assets/44575416/89bc3001-1c3f-4c8f-95d6-88895d23c4d5">
-
+<img width="740" alt="image" src="https://github.com/smit-1999/Apriori-FP-Tree/assets/44575416/c61b4b59-574b-4469-a67d-9c086e1e6159">
+<img width="744" alt="image" src="https://github.com/smit-1999/Apriori-FP-Tree/assets/44575416/87135f28-06e5-426f-8a6c-7fa4c207b8b8">
 
 
 ### FP Tree:
